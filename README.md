@@ -57,7 +57,3 @@ This skill helps your paper adhere to RSNA standards, especially for Radiology: 
     ├── data-resources.md
     └── letter.md
 ```
-
-## License
-
-MIT
